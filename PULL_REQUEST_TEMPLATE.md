@@ -1,7 +1,13 @@
 # CS - XXX : Short Descriptive Title 
 <img width="32" height="32" alt="DevIcon" src="https://github.com/user-attachments/assets/6e0dd756-45ad-413c-b1ea-1b0e058049b6" /> **Developer Liability:** 
-- [ ] I have made sure that my changes did not break anything during 
-development and is ready for staging.
+*   [ ] My code follows the style guidelines of this project
+*   [ ] I have performed a self-review of my own code
+*   [ ] I have commented my code, particularly in hard-to-understand areas
+*   [ ] I have made corresponding changes to the documentation
+*   [ ] My changes generate no new warnings
+*   [ ] I have added tests that prove my fix is effective or that my feature works
+*   [ ] New and existing unit tests pass locally with my changes
+*   [ ] Any dependent changes have been merged and published in downstream modules
 ---
 <img width="24" height="24" alt="CilDescription" src="https://github.com/user-attachments/assets/570e3d7d-6cf4-43ef-8262-93d70c4c516f" /> **Description** 
 - What was implemented
