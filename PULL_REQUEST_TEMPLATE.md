@@ -1,6 +1,7 @@
 <img width="310" height="77" alt="PRBanner" src="https://github.com/user-attachments/assets/e6bf8f4d-bb94-4247-afac-9d9e4c02c86a" />
 
-CS - XXX : Short Descriptive Title 
+CS - XXX : Short Descriptive Title
+
 <img width="32" height="32" alt="DevIcon" src="https://github.com/user-attachments/assets/6e0dd756-45ad-413c-b1ea-1b0e058049b6" /> **Developer Liability:** 
 *   [ ] My code follows the style guidelines of this project
 *   [ ] I have performed a self-review of my own code
